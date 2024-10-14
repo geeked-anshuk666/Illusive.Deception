@@ -18,6 +18,9 @@ Stable Diffusion v1-4 (Diffusers Library)
 Streamlit (Web UI Framework)
 PyTorch for model operations
 
+# Quick Start Demo
+
+This is deployed on Hugging Face .The demo link is :[HuggingFace](https://huggingface.co/spaces/Anshuk666/Illusive.Deception)
 
 # Table of Contents
 - [Project Title:Illusive.Deception](#Illusive.Deception)
